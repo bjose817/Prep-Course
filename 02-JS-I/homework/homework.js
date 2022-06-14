@@ -97,16 +97,11 @@ function mayorQueCincuenta(num) {
 }
 
 function obtenerResto(x, y) {
-}
-
-function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
   return x % y;
 }
 
-function esPar(num) {
-}
 
 function esPar(num) {
   // Devuelve "true" si "num" es par
@@ -117,9 +112,6 @@ function esPar(num) {
   } else {
     return false;
   }
-}
-
-function esImpar(num) {
 }
 
 function esImpar(num) {
@@ -134,17 +126,10 @@ function esImpar(num) {
 }
 
 function elevarAlCuadrado(num) {
-}
-
-function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
   return Math.pow(num, 2);
-}
-
-function elevarAlCubo(num) {
-
 }
 
 function elevarAlCubo(num) {
@@ -154,15 +139,9 @@ function elevarAlCubo(num) {
 }
 
 function elevar(num, exponent) {
-}
-
-function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
   return Math.pow(num, exponent);
-}
-
-function redondearNumero(num) {
 }
 
 function redondearNumero(num) {
@@ -172,15 +151,9 @@ function redondearNumero(num) {
 }
 
 function redondearHaciaArriba(num) {
-}
-
-function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
   return Math.ceil(num);
-}
-
-function numeroRandom() {
 }
 
 function numeroRandom() {
